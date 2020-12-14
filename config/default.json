@@ -1,0 +1,3 @@
+{
+  "mongoURI" : "mongodb+srv://jon:Cool12345@cluster0.5gebv.mongodb.net/Cluster0?retryWrites=true&w=majority"
+}
